@@ -4,6 +4,8 @@ import java.io.*;
 
 public class ATM {
 	
+	int accountBalance = 100;
+	
 	/**
 	 * Main command loop of the ATM
 	 * Asks the user to enter a number, and passes this number to the function cashout(...) 
@@ -25,7 +27,11 @@ public class ATM {
 	}
 	
 	public void cashout(int amount) {
-		
+		if (amount < accountBalance) {
+			System.out.println("Ok, here is your money, enjoy!");
+		} else {
+			System.out.println("Sorry, not enough money in the bank.");
+		}
 	};
 	
 	/**
