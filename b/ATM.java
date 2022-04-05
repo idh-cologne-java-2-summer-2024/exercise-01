@@ -28,6 +28,7 @@ public class ATM {
 	
 	public void cashout(int amount) {
 		if (amount < accountBalance) {
+			accountBalance = accountBalance - amount;
 			System.out.println("Ok, here is your money, enjoy!");
 		} else {
 			System.out.println("Sorry, not enough money in the bank.");
