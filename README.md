@@ -2,6 +2,8 @@ Softwaretechnologie: Java 2
 
 # Übung 1
 
+Ab Übung 2 sollten die Übungen via GitHub abgegeben werden. In der ersten Übung werden sie (wie im Wintersemester) als zip-Datei in ilias hochgeladen.
+
 ## a) Fehler finden
 
 In der Datei `a/A.java` findet sich Code, der das folgende tun soll: Ein Array soll mit zufälligen Zahlen gefüllt werden. Ist die Summe der Zahlen im Array größer als 750, soll "Hello World" ausgegeben werden. Leider ist der Code voller Fehler. Finden und beheben Sie sie!
