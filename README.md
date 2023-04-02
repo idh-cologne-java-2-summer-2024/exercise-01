@@ -33,6 +33,6 @@ Enter the amount to withdraw: exit
 ```
 
 
-## c) GitHub-Account schicken
+## c) GitHub-Account eintragen
 
-Falls noch nicht geschehen, schicken Sie Ihren GitHub-Account an [nils.reiter@uni-koeln.de](mailto:nils.reiter@uni-koeln.de).
+Falls noch nicht geschehen, tragen Sie bitte Ihren GitHub-Account in [diese Tabelle auf Ilias](https://www.ilias.uni-koeln.de/ilias/goto_uk_dcl_5170746_3549.html) ein.
