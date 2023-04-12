@@ -23,6 +23,7 @@ Wie Sie sehen, kann der Geldautomat nur mit ganzen Zahlen operieren und stürzt 
 
 
 Eine Interaktion sollte also ungefähr so aussehen:
+
 ```
 exercise-01$ java b/ATM
 Enter the amount to withdraw: 25
