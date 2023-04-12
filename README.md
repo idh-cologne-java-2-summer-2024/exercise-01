@@ -1,4 +1,4 @@
-Softwaretechnologie: Java 2
+Fortgeschrittene Programmierung (Java 2)
 
 # Übung 1
 
@@ -23,6 +23,7 @@ Wie Sie sehen, kann der Geldautomat nur mit ganzen Zahlen operieren und stürzt 
 
 
 Eine Interaktion sollte also ungefähr so aussehen:
+
 ```
 exercise-01$ java b/ATM
 Enter the amount to withdraw: 25
@@ -33,6 +34,6 @@ Enter the amount to withdraw: exit
 ```
 
 
-## c) GitHub-Account schicken
+## c) GitHub-Account eintragen
 
-Falls noch nicht geschehen, schicken Sie Ihren GitHub-Account an [nils.reiter@uni-koeln.de](mailto:nils.reiter@uni-koeln.de).
+Falls noch nicht geschehen, tragen Sie bitte Ihren GitHub-Account in [diese Tabelle auf Ilias](https://www.ilias.uni-koeln.de/ilias/goto_uk_dcl_5170746_3549.html) ein.
