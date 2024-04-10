@@ -2,13 +2,17 @@ Fortgeschrittene Programmierung (Java 2)
 
 # Übung 1
 
-Ab Übung 2 sollten die Übungen via GitHub abgegeben werden. In der ersten Übung werden sie (wie im Wintersemester) als zip-Datei in ilias hochgeladen.
+Ab Übung 2 sollten die Übungen via GitHub abgegeben werden. Ihre Lösung zu dieser ersten Übung wird (wie im Wintersemester) als zip-Datei in ilias hochgeladen.
 
-## a) Fehler finden
+## a) GitHub-Account eintragen
+
+Falls noch nicht geschehen, tragen Sie bitte Ihren GitHub-Account in [diese Tabelle auf Ilias](https://www.ilias.uni-koeln.de/ilias/goto_uk_dcl_5714039_4106.html) ein.
+
+## b) Fehler finden
 
 In der Datei `a/A.java` findet sich Code, der das folgende tun soll: Ein Array soll mit zufälligen Zahlen gefüllt werden. Ist die Summe der Zahlen im Array größer als 750, soll "Hello World" ausgegeben werden. Leider ist der Code voller Fehler. Finden und beheben Sie sie!
 
-## b) Geldautomat
+## c) Geldautomat
 
 In der Datei `b/ATM.java` finden Sie den Quellcode für einen Teil einer Geldautomaten-Steuerungslogik. Damit kann die folgende Interaktion durchgeführt werden:
 
@@ -34,6 +38,3 @@ Enter the amount to withdraw: exit
 ```
 
 
-## c) GitHub-Account eintragen
-
-Falls noch nicht geschehen, tragen Sie bitte Ihren GitHub-Account in [diese Tabelle auf Ilias](https://www.ilias.uni-koeln.de/ilias/goto_uk_dcl_5170746_3549.html) ein.
